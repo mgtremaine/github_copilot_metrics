@@ -42,12 +42,12 @@ This project is designed to collect, analyze, and report metrics related to the 
 
 1. To start data collection, run:
    ```
-   python collect_metrics.py
+   python github_metrics.py 
    ```
     by default it will output raw json from the API.
 2. To get help , run:
    ```
-   python generate_reports.py -h
+   python github_metrics.py -h
    ```
     this will show you the command line options you can pass.
 
