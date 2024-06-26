@@ -44,10 +44,12 @@ This project is designed to collect, analyze, and report metrics related to the 
    ```
    python collect_metrics.py
    ```
-2. To generate reports, run:
+    by default it will output raw json from the API.
+2. To get help , run:
    ```
-   python generate_reports.py
+   python generate_reports.py -h
    ```
+    this will show you the command line options you can pass.
 
 ## Contributing
 
