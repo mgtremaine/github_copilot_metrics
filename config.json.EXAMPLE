@@ -1,0 +1,10 @@
+{
+    "bearer_token": "<YOUR GITHIB ORG BEARER TOKEN>",
+    "org": "<YOUR ORG NAME>",
+    "type": "<YOUR ORG TYPE : org/enterprise>",
+    "dbhost": "<YOUR DATABASE HOST NAME/IP>",
+    "dbuser": "<YOUR DATABASE USER>",
+    "dbpass": "<YOUR DATABASE PASSWORD>",
+    "dbname": "<YOUR DATABASE NAME: exmaple github_metrics>",
+    "dbtable": "<YOUR DATABASE TABLE Name: example github_metrics>"
+}
